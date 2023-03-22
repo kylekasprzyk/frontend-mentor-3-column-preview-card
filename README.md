@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Frontend%20Mentor%203-column%20preview%20desktop.png)
+![](./design/Frontend%20Mentor%203-column%20preview.png)
 
 ### Links
 
